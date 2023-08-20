@@ -11,6 +11,7 @@ public class Addition {
 		c = a+b;
 		
 		System.out.println("The Addtion value : "+c);
+		System.out.println("Sum of the Number Has Been Calculated");
 	}
 	
 }
